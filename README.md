@@ -91,6 +91,20 @@ An original method for teaching new AI models **faster and more accurately**. Th
 - Reached a best accuracy of **99.22%**.
 - Against standard training with common expert add-ons, it **tied**. I published that too, along with what the results do and don't prove.
 
+**How it evolved: 9 versions in 2 days**
+
+| Version | What happened | What I decided |
+|---|---|---|
+| **1–4** | Wrote the method down over four drafts, defining every role and its one job | Plan first, one job per role, at most one redo |
+| **5** | Realized the score could be quietly flattered by the same data that guided training | Added a separate final exam, used only once at the very end, so the reported score is honest |
+| **6** | **Round 1: Mirror Learning lost.** I traced the loss to how the workers combined their results | Changed how workers share their progress, and added a check on every combined step |
+| **7** | Ran small trials on three ideas before the next round | Kept all three. One new role stopped 10 of 12 false alarms and saved 8–14% of the time |
+| **8** | Found that one of the self-checks was unfairly strict and was throwing away good work | Fixed it, and added a guide role that helps the model learn without handing it answers. It beat standard training in 6 of 8 races |
+| **9** | Tested a rule for when to slow learning down, and re-tested every part | **Kept only what worked.** I dropped an idea that caught 82–84% of mislabeled examples, because it still cost accuracy overall |
+| **Round 4** | Raced against a stronger standard method | **A tie.** Published as is |
+
+*The full method stays private for now. Happy to walk through it in conversation.*
+
 ---
 
 ### Also in development · *in stealth*
