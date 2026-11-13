@@ -24,6 +24,8 @@ I'm a founder and product owner. I decide what gets built and why, write the rul
 ### Digna · *Your money's good here.*
 **Founder & Product Owner · Oct 2026 – present · Live at [digna.dev](https://digna.dev)**
 
+🎬 **[Watch the Digna film (2:40)](https://github.com/Alesha234/alesha-buckins-projects/raw/main/media/digna-film.mp4)**
+
 **The problem.** I was trying to pay for a cloud service to build my own product, and my prepaid card was declined. Then my debit card. The money was there, but the service didn't accept the kinds of cards I had, and nobody could tell me why. That happens every day to people who pay with debit cards, prepaid cards and money apps. Hotels, car rentals and online services turn them away, often with no reason given.
 
 **What I built.** Digna works from **payday**. When your paycheck arrives, Digna sets aside what your bills need, and **one Digna Card** pays them, putting each payment on the right bill, up to the limit you set. Whatever's left is yours to spend. It's your own money, not a loan: no credit check, no interest, no debt. And if a place ever says no, Digna tells you why and what to do next.
