@@ -4,7 +4,7 @@
 
 I'm a founder and product owner. I decide what gets built and why, write the rules every builder must follow, direct teams of AI agents and AI coding tools to do the building, review every change before it ships, and put the result in front of real people. I don't hand-write most of the code, and I say so openly. My work is the product thinking, the system design, the judgment calls and the quality bar.
 
-**Based in New York · [LinkedIn](https://www.linkedin.com/in/alesha-buckins-7b636680) · [digna.dev](https://digna.dev)**
+**Based in New York · [LinkedIn](https://www.linkedin.com/in/aleshabuckins) · [digna.dev](https://digna.dev)**
 
 ---
 
@@ -141,6 +141,6 @@ An original method for teaching new AI models **faster and more accurately**. Th
 
 I'm open to roles in **AI product management** and **building AI-powered products and workflows**, and to conversations with partners interested in Digna.
 
-**[Connect with me on LinkedIn](https://www.linkedin.com/in/alesha-buckins-7b636680)** · **[Try Digna](https://digna.dev)**
+**[Connect with me on LinkedIn](https://www.linkedin.com/in/aleshabuckins)** · **[Try Digna](https://digna.dev)**
 
 *Product code is kept private. This page describes the work, not its inner workings.*
