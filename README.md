@@ -26,14 +26,20 @@ I'm a founder and product owner. I decide what gets built and why, write the rul
 
 **The problem.** I was trying to pay for a cloud service to build my own product, and my prepaid card was declined. Then my debit card. The money was there, but the service didn't accept the kinds of cards I had, and nobody could tell me why. That happens every day to people who pay with debit cards, prepaid cards and money apps. Hotels, car rentals and online services turn them away, often with no reason given.
 
-**What I built.** Digna gives you a **card for each bill**: the hotel, the rental car, the cloud bill. Each one pays from your own money, can never spend past the limit you set, and stops on its end date. No credit check and no debt. Before you pay, Digna tells you whether a place will take the card and why. If a place says no, it tells you exactly what to do next.
+**What I built.** Digna works from **payday**. When your paycheck arrives, Digna sets aside what your bills need, and **one Digna Card** pays them, putting each payment on the right bill, up to the limit you set. Whatever's left is yours to spend. It's your own money, not a loan: no credit check, no interest, no debt. And if a place ever says no, Digna tells you why and what to do next.
 
 **What it does today** (with practice money, clearly labeled on every page):
-- Make a card for each place, each with its own limit and end date. Pause it, raise it or close it in one tap.
-- **Snap a bill**: upload a photo, PDF or Word file, and AI reads who it's from, the amount and the due date, then sets up a card for it.
-- **Every decline explained.** Sample businesses follow real-world card rules, so you can see what a checkout would really say and why.
-- **Ask Digna**: a money assistant on every screen. You can type or just speak. Ask it to "raise my hotel card to $180" and it sets that up, but **nothing changes until you tap Confirm.**
-- Receipts for every payment, a calm private screen for declines, and a short celebration for approvals.
+- **Snap a bill:** upload a photo or PDF, and AI reads who it's from, how much and when it's due, then files it in the right category.
+- **A payday plan:** choose how much of each paycheck goes to Digna. Bills come first, then your plans, and the rest is free to spend.
+- **One card that sorts itself:** when you pay, Digna matches who is charging, how much and when to the right bill. If it guesses wrong, one tap moves it, and Digna remembers next time.
+- **Each bill has its own limit,** so a surprise charge can't eat your rent.
+- **Bill Watch:** if a bill comes in higher than last time, Digna shows you what changed and what to ask.
+- **Plans:** set aside a share of each paycheck for something fun, like a concert or a trip, after the bills are covered.
+- **Every "no" explained:** the reason, in plain words, and what to do next.
+- **Ask Digna:** a money assistant on every screen. You can type or just speak. It can set up a change for you, but **nothing changes until you tap Confirm.**
+- **Four kinds of bills:** travel and big moments, and everyday bills (rent, phone, apps and cloud services) work today; family and business are next.
+
+**How it grew.** For the hackathon, Digna gave you a separate card for each bill. After the event, I redesigned it around **payday**: one card and a payday plan, so bills are covered before the money is spent. I kept what worked (bill reading, explained declines, the Confirm button) and gave it a warmer new look.
 
 **How I made it trustworthy**
 - **Money rules live on the server, not in the app.** Limits, end dates and balances are checked before any payment goes through.
@@ -45,10 +51,11 @@ I'm a founder and product owner. I decide what gets built and why, write the rul
 **How it was built.** The first version came from my AI app-building studio, where AI workers each built one part. I then directed AI coding tools through dozens of reviewed changes. I decided every feature, reviewed every change and approved it before it went live. I also measured and published who wrote what share of the code.
 
 **Results**
-- Launched a working, public product solo in **six days**, with a **3-minute film** now shared on social media.
+- Launched a working, public product solo in **six days** for the hackathon, with a **3-minute film**, then **redesigned it** around payday based on what I learned.
 - Shipped **four AI features**, all running on Meta's AI models: the assistant, bill reading from messy photos, voice input, and every image on the site.
 - Built a **live user survey** whose results chart updates itself, showing counts only and never personal details.
 - Wrote a **partner pitch** for card companies, hotels and fintech companies.
+- **Private by default:** only what's needed is kept, it's never sold, and people can delete it all.
 
 ---
 
