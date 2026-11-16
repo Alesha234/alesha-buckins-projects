@@ -54,7 +54,7 @@ I'm a founder and product owner. I decide what gets built and why, write the rul
 **How it was built.** The first version came from my AI app-building studio, where AI workers each built one part. I then directed AI coding tools through dozens of reviewed changes. I decided every feature, reviewed every change and approved it before it went live. I also measured and published who wrote what share of the code.
 
 **Results**
-- Launched a working, public product solo in **six days** for the hackathon, with a **3-minute film**, then **redesigned it** around payday based on what I learned.
+- Launched a working, public product solo in **six days** for the hackathon, with a **3-minute demo film** (since updated to match the new design), then **redesigned it** around payday based on what I learned.
 - Shipped **four AI features**, all running on Meta's AI models: the assistant, bill reading from messy photos, voice input, and every image on the site.
 - Built a **live user survey** whose results chart updates itself, showing counts only and never personal details.
 - Wrote a **partner pitch** for card companies, hotels and fintech companies.
