@@ -4,7 +4,7 @@
 
 I'm a founder and product owner. I decide what gets built and why, write the rules every builder must follow, direct teams of AI agents and AI coding tools to do the building, review every change before it ships, and put the result in front of real people. I don't hand-write most of the code, and I say so openly. My work is the product thinking, the system design, the judgment calls and the quality bar.
 
-**Based in New York · [LinkedIn](https://www.linkedin.com/in/aleshabuckins) · [digna.dev](https://digna.dev)**
+**Based in New York · [LinkedIn](https://www.linkedin.com/in/aleshabuckins) · [digna.dev](https://digna.dev) · [ORCID](https://orcid.org/0009-0005-2060-5052)**
 
 ---
 
