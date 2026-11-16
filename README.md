@@ -15,6 +15,7 @@ I'm a founder and product owner. I decide what gets built and why, write the rul
 | **Live product** | **Digna**, a payments app launched solo in six days for the Meta Global AI Developer Hackathon (startup track) |
 | **Platform** | An **AI app-building studio** (in stealth) where a team of AI agents plans, designs, builds and safety-checks an app, with a person approving each key step |
 | **Research** | **Mirror Learning**, an original method for training AI models, tested in fair head-to-head races with every result published |
+| **In development** | A **data center power engine** that compares ways of powering AI server halls, with every figure checked against its source |
 | **How I build** | Plain-language specs → project rulebooks → AI agents and coding tools → human review of every change → live launch → user feedback |
 
 ---
@@ -113,6 +114,35 @@ An original method for teaching new AI models **faster and more accurately**. Th
 | **Round 4** | Raced against a stronger standard method | **A tie.** Published as is |
 
 *The full method stays private for now. Happy to walk through it in conversation.*
+
+---
+
+### Data Center Power Engine · *in development*
+**Founder & Product Owner · Nov 2026 – present**
+
+**The problem.** AI data centers use so much power that how electricity gets from the building's supply to each rack of servers is now a multimillion-dollar decision. Developers choose between older and newer ways of wiring a hall, often before an engineer has drawn a single line, and the trade-offs are hard to see side by side.
+
+**What I'm building.** A calculation engine for early-stage feasibility studies. Give it a hall's size, rack load, voltage and wire distances, and it compares the options side by side: how much copper each needs, how much power is lost along the way, how much extra cooling that lost power needs, and what it all costs over ten years.
+
+**How I made it trustworthy**
+- **Every number traces to a source:** an input, a table from the National Electrical Code, or a cited datasheet. There are no made-up constants.
+- **Every calculation has a hand-worked test** that shows the arithmetic, so a reviewer can check it without reading code.
+- **Each figure is marked confirmed or not confirmed,** and every report shows which is which.
+- **It knows its limits:** every report says it supports early decisions and doesn't replace a licensed engineer's design or seal.
+
+**How I checked it.** The first version used equipment figures found through web searches. I then ran two rounds of checks, opening each manufacturer's and researcher's own documents and comparing every figure:
+- **Caught a wrong figure:** one efficiency number came from search results and wasn't on any real source. I replaced it with the published value.
+- **Caught a calculation error:** copper weight for one wiring option was understated by about a third. I switched to the manufacturer's actual part sizes.
+- **Flagged an over-optimistic claim:** a manufacturer's own heat figures show real efficiency running below its "up to" claim. That caveat now appears in every report.
+- **Result:** the wiring data and 5 of 6 equipment figures are confirmed. The last one stays openly marked as unconfirmed until a datasheet turns up.
+
+**What it found so far.** In the hall designs I modeled, the power-conversion equipment wastes far more energy than the wires do, roughly 10 to 20 times as much. So the choice of equipment, and how it's set to run, moves the answer more than any choice of wire.
+
+**How it's built.** I wrote the project's rules (plain words, every number sourced, a test for every change) and directed Claude Code to build and check it. I reviewed and approved every change before it went in.
+
+**Next:** a review of the method by a licensed professional engineer, then interviews with data center builders.
+
+*The engine, its data and its results stay private. Happy to walk through the approach in conversation.*
 
 ---
 
