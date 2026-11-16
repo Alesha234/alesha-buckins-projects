@@ -25,7 +25,9 @@ I'm a founder and product owner. I decide what gets built and why, write the rul
 ### Digna · *Your money's good here.*
 **Founder & Product Owner · Oct 2026 – present · Live at [digna.dev](https://digna.dev)**
 
-🎬 **[Watch the Digna film (2:40)](https://github.com/Alesha234/alesha-buckins-projects/raw/main/media/digna-film.mp4)**
+[![Watch the Digna film (2:40)](media/digna-film-poster.jpg)](https://github.com/Alesha234/alesha-buckins-projects/raw/main/media/digna-film.mp4)
+
+🎬 **[Watch the Digna film (2:40)](https://github.com/Alesha234/alesha-buckins-projects/raw/main/media/digna-film.mp4)** · *How it was made:* I made it with AI end to end. The people are AI-generated with Meta's Muse Video, the voice is AI too, every Digna screen is the real app, and Claude edited the clips together into the finished film.
 
 **The problem.** I was trying to pay for a cloud service to build my own product, and my prepaid card was declined. Then my debit card. The money was there, but the service didn't accept the kinds of cards I had, and nobody could tell me why. That happens every day to people who pay with debit cards, prepaid cards and money apps. Hotels, car rentals and online services turn them away, often with no reason given.
 
