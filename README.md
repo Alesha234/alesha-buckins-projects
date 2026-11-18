@@ -15,6 +15,7 @@ I'm a founder and product owner. I decide what gets built and why, write the rul
 | **Live product** | **Digna**, a payments app launched solo in six days for the Meta Global AI Developer Hackathon (startup track) |
 | **Platform** | An **AI app-building studio** (in stealth) where a team of AI agents plans, designs, builds and safety-checks an app, with a person approving each key step |
 | **Research** | **Mirror Learning**, an original method for training AI models, tested in fair head-to-head races with every result published |
+| **Free tool** | **[Row Power Compare](https://alesha234.github.io/row-power-compare/)**, a public calculator that compares three ways to power a row of AI racks, sized to the electrical code |
 | **In development** | A **data center power engine** that compares ways of powering AI server halls, with every figure checked against its source |
 | **How I build** | Plain-language specs → project rulebooks → AI agents and coding tools → human review of every change → live launch → user feedback |
 
@@ -116,6 +117,24 @@ An original method for teaching new AI models **faster and more accurately**. Th
 | **Round 4** | Raced against a stronger standard method | **A tie.** Published as is |
 
 *The full method stays private for now. Happy to walk through it in conversation.*
+
+---
+
+### Row Power Compare · *free beta*
+**Creator · Nov 2026 · Live at [alesha234.github.io/row-power-compare](https://alesha234.github.io/row-power-compare/)**
+
+**The problem.** AI racks now draw 100 kW or more each, so engineers and data center developers keep asking the same early question: should this row run on 480 V AC, 415 V AC or 800 V DC? Answering it usually takes a spreadsheet, a code book and an afternoon.
+
+**What I built.** A free calculator that answers it in seconds, side by side, in any browser on a computer or a phone. Describe the row, and it sizes the wire, breaker and ground for each option to the 2023 National Electrical Code, then shows copper weight, voltage drop, power lost in wires and equipment, and what those losses cost over the years you choose. It names the cheapest option overall and says why in one line.
+
+**How I made it trustworthy**
+- **Every number traces to an input you can change or to the code table it came from**, and each table is labeled with its code number.
+- **It checks itself every time it opens** against cases worked by hand. If any check fails, it shows no results at all, never a wrong number.
+- **Its simplifications are listed openly**, so nobody mistakes one for a code requirement.
+- **Your inputs never leave your browser.** No sign-in, nothing to install.
+- **It knows its limits:** it supports early comparisons and doesn't replace a licensed engineer's design or seal.
+
+**How it's built.** I set the rules, the look and every feature, and directed Claude Code to build and check it. I reviewed and approved every change before it went live. It's a simple public tool, separate from the private power engine below.
 
 ---
 
